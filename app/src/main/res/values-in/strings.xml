@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User Search</string>
+    <string name="user_name">Username</string>
+    <string name="search_hint">Cari Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="user_location">Lokasi</string>
+    <string name="user_company">Perusahaan</string>
+    <string name="label_user_repo">Total Repositori</string>
+    <string name="user_count_repo">0</string>
+    <string name="tab_text_follower">Pengikut</string>
+    <string name="tab_text_following">Mengikuti</string>
+    <string name="main_first_load">masukkan username\nterlebih dahulu</string>
+    <string name="language_setting">Ubah Pengaturan Bahasa</string>
+</resources>
